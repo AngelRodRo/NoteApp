@@ -6,6 +6,5 @@
     android:singleLine="true"
     android:textSize="20sp"
     android:ellipsize="end"
-    android:drawableRight="@drawable/ic_action_edit">
-
-</TextView>
+    android:drawableRight="@drawable/ic_launcher"
+    />
